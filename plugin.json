@@ -1,12 +1,12 @@
 {
     "ID": "2f4e384e-76ce-45c3-aea2-b16f5e5c328f",
-    "ActionKeyword": "hp",
-    "Name": "Hello World Python",
-    "Description": "Python Hello World example plugin",
-    "Author": "Flow Launcher",
+    "ActionKeyword": "dtq",
+    "Name": "Download to Wav",
+    "Description": "Download to Wav with yt-dlp",
+    "Author": "toshk0",
     "Version": "1.0.0",
     "Language": "python",
-    "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython",
+    "Website": "https://github.com/toshk0/Flow.Launcher.Plugin.DownloadToWav",
     "IcoPath": "Images\\app.png",
     "ExecuteFileName": "main.py"
 }
